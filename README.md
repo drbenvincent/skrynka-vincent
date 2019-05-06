@@ -17,6 +17,8 @@ This repository contains data and analysis code for the paper:
 
 The analyses were conducted in Python and are presented in the form of a number of Jupyter notebooks in the `analysis` folder. These can be viewed online (either on the OSF or in GitHub).
 
+_Note these links work when viewed on GitHub_
+
 1. [Analysis of subjective hunger](analysis/01_subjective_hunger.ipynb)
 2. [Bayesian scoring of raw discounting data](analysis/02_score_discounting_data.ipynb)
 3. [Analysis of hyperbolic discount function](analysis/03_analyse-hyperbolic.ipynb)
