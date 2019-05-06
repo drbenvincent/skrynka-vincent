@@ -36,6 +36,7 @@ There is also a `.jasp` file which includes Bayesian repeated measures t-tests. 
 
 ## Packages used
 We used the following Python packages
+
 - pandas
 - numpy
 - matplotlib
