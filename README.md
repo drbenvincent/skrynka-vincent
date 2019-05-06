@@ -17,13 +17,13 @@ This repository contains data and analysis code for the paper:
 
 The analyses were conducted in Python and are presented in the form of a number of Jupyter notebooks in the `analysis` folder. These can be viewed online (either on the OSF or in GitHub).
 
-1. [Analysis of subjective hunger](01_subjective_hunger.ipynb)
-2. [Bayesian scoring of raw discounting data](02_score_discounting_data.ipynb)
-3. [Analysis of hyperbolic discount function](03_analyse-hyperbolic.ipynb)
-4. [Evaluate hypotheses based on hyperbolic discount function](04_analyse_hypotheses_hyperbolic_logk.ipynb)
-5. [Analysis of AUC from multiple discount functions](05_analyse_AUC.ipynb)
-6. [Comparison of different discount functions](06_model_comparison.ipynb)
-7. [Evaluate hypotheses based on AUC from multiple discount functions](07_analyse_hypotheses_AUC.ipynb)
+1. [Analysis of subjective hunger](analysis/01_subjective_hunger.ipynb)
+2. [Bayesian scoring of raw discounting data](analysis/02_score_discounting_data.ipynb)
+3. [Analysis of hyperbolic discount function](analysis/03_analyse-hyperbolic.ipynb)
+4. [Evaluate hypotheses based on hyperbolic discount function](analysis/04_analyse_hypotheses_hyperbolic_logk.ipynb)
+5. [Analysis of AUC from multiple discount functions](analysis/05_analyse_AUC.ipynb)
+6. [Comparison of different discount functions](analysis/06_model_comparison.ipynb)
+7. [Evaluate hypotheses based on AUC from multiple discount functions](analysis/07_analyse_hypotheses_AUC.ipynb)
 
 Running these notebooks will produce a series of outputs which are also contained in the `analysis` folder. These outputs are primarily generated figures or generated data stored in `.csv` files.
 
