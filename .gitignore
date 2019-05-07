@@ -1,1 +1,4 @@
 *.DS_Store
+*-checkpoint.ipynb
+*.pyc
+figs/
