@@ -4,7 +4,7 @@ This repository contains data and analysis code for the paper:
 
 > Skrynka, J., & Vincent, B. T. (2017, July 26). Hunger increases delay discounting of food and non-food rewards. https://doi.org/10.31234/osf.io/qgp54
 
-**STATUS: Under review**
+**STATUS: Unpublished pre-print, under review**
 
 
 ## Data
