@@ -15,10 +15,10 @@ h(1).y = [0 0 0];
 h(2).name = 'Model 2: In-domain only';
 h(2).y = [1 0 0];
 
-h(3).name = 'Model 3: Monetary primacy';
+h(3).name = 'Model 3: Monetary fungibility';
 h(3).y = [1 1 0];
 
-h(4).name = 'Model 4: Devaluation';
+h(4).name = 'Model 4: Negative spillover';
 h(4).y = [1 -0.5 -0.5];
 
 h(5).name = 'Model 5: Spillover effect';

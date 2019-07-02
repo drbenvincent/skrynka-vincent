@@ -64,9 +64,9 @@ class H2(Model):
 
 
 class H3(Model):
-    """Monetary primacy model"""
+    """Monetary fungibility model"""
 
-    name = "3. Monetary primacy"
+    name = "3. Monetary fungibility"
     x0 = [-0.25, 0.05]
     free_params = len(x0)
     # bounds = [(None, 0.), (0., None)]
@@ -80,9 +80,9 @@ class H3(Model):
 
 
 class H4(Model):
-    """Devaluation model"""
+    """Negative spillover model"""
 
-    name = "4. Devaluation"
+    name = "4. Negative spillover"
     x0 = [-0.25, 0.1, 0.05]
     free_params = len(x0)
     bounds = [(None, 0.), (0., None), (0., None)]
